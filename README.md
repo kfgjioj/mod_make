@@ -9,8 +9,8 @@ See [Releases](https://github.com/kfgjioj/mod_make/releases).
 
 | File | What it is |
 |---|---|
-| `Midway_b53_SourceMod.zip` | Server plugin (`tfplane.smx` and its source), models, materials, sounds, example config, installation guide and credits |
-| `Midway_b53_FastDL.zip` | The same client files compressed as `.bz2`, plus the map, for your HTTP download server (`sv_downloadurl`), with credits |
+| `Midway_b54_SourceMod.zip` | Server plugin (`tfplane.smx` and its source), models, materials, sounds, example config, installation guide and credits |
+| `Midway_b54_FastDL.zip` | The same client files compressed as `.bz2`, plus the map, for your HTTP download server (`sv_downloadurl`), with credits |
 
 Install instructions are in `README.md` inside the SourceMod ZIP. MetaMod:Source and SourceMod are required and not included.
 
@@ -27,8 +27,8 @@ Corporation. This is an independent community project, not affiliated with or en
 TF2 전용 서버용 SourceMod 플러그인입니다. 미드웨이 환초 위에서 F4F-4와 영식을 직접 조종하고, 움직이는 항모 함대와 싸웁니다.
 맵 `dogfight_midway`는 스팀 창작마당에 따로 올립니다.
 
-- `Midway_b53_SourceMod.zip`: 서버용 플러그인과 소스, 모델·재질·소리, 설정 예시, 설치 안내, 크레딧
-- `Midway_b53_FastDL.zip`: 같은 파일을 `.bz2`로 압축한 웹 다운로드용 파일과 맵, 크레딧
+- `Midway_b54_SourceMod.zip`: 서버용 플러그인과 소스, 모델·재질·소리, 설정 예시, 설치 안내, 크레딧
+- `Midway_b54_FastDL.zip`: 같은 파일을 `.bz2`로 압축한 웹 다운로드용 파일과 맵, 크레딧
 
 설치 방법은 SourceMod ZIP 안의 `README.md`를 보세요. MetaMod:Source와 SourceMod는 따로 설치해야 합니다.
 플러그인 코드는 GPL v3 이상이고, 모델·소리·지도 자료의 저작자와 라이선스는 각 ZIP 안의 `CREDITS.md`와 `licenses/`에 있습니다.
